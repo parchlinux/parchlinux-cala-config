@@ -8,7 +8,8 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName: parchlinux 
+componentName:  parchlinux
+
 
 ### WELCOME / OVERALL WORDING
 #
@@ -122,13 +123,13 @@ navigation: widget
 strings:
     productName:         "@{NAME}"
     shortProductName:    Parch Linux
-    version:             2022-01
+    version:             2023-07
     #shortVersion:        
-    versionedName:       Parch Linux 
+    versionedName:       Parch Linux
     shortVersionedName:  Parch Linux
     bootloaderEntryName: Parch Linux
-    #productUrl:          https://calamares.io/
-    #supportUrl:          https://github.com/calamares/calamares/wiki
+    productUrl:          https://parchlinux.ir
+    supportUrl:          https://parchlinux.ir/parchwiki
     #knownIssuesUrl:      https://github.com/calamares/calamares/issues
     #releaseNotesUrl:     https://calamares.io/news/
     #donateUrl:           https://kde.org/community/donations/index.php
